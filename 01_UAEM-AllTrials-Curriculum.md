@@ -1,8 +1,8 @@
 ![image alt text](image_0.png)     ![image alt text](image_1.png)
 
-**Communication and Advocacy for Research Transparency**
+# Communication and Advocacy for Research Transparency**
 
-# Workshop Information
+## [Slidedeck](https://docs.google.com/presentation/d/13HlEfdm1eC_ns-GIAfliGj_Mw-lbdtRKO2fD2IZZ_9E/edit?usp=sharing)
 
 ## **Instructor(s) Information**
 
